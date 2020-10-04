@@ -4,6 +4,4 @@
 ---
 HTML TAG
 ---
-1.＜strong＞＜/strong＞<br>
-2.＜h1＞＜/h1＞<br>
-3.＜u＞＜/u＞<br>
+1.＜u＞＜/u＞<br>2.＜strong＞＜/strong＞<br>3.＜br＞<br>4.＜p＞＜/p＞<br>
