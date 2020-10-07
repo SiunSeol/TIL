@@ -4,8 +4,17 @@
 ---
 HTML TAG
 ---
-1.＜u＞＜/u＞<br>2.＜strong＞＜/strong＞<br>3.＜br＞<br>4.＜p＞＜/p＞<br>
-5.＜div＞＜/div＞<br>6.＜img＞
+<ol>
+  <li>＜u＞＜/u＞</li>
+  <li>＜strong＞＜/strong＞</li>
+  <li>＜br＞</li>
+  <li>＜p＞＜/p＞</li>
+  <li>＜div＞＜/div＞</li>
+  <li>＜img＞</li>
+  <li>＜ol＞＜/ol＞</li>
+  <li>＜ul＞＜/ul＞</li>
+  <li>＜li＞＜/li＞</li>
+</ol
 
 ---
 Attribute
