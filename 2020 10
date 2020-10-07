@@ -19,7 +19,7 @@ tagはは単純に内容だけを表示するのではなく、情報も含ま�
 HTML学ぶこと
 <div></div>:Division(分割、分割)タグとして知られており、
 htmlでウェブページの内容(テキスト、画像、頭文字など)を区分するのに使用。
-10/5 HTML
+10/6 HTML
 11/45単元まで聞きます。
 HTML学ぶこと
 <img> 図追加をために使用するHTML要素。
@@ -27,7 +27,7 @@ unsplashサイト：著作権なして使える写真サイト。
 src=source:ソースコード、width=幅
 HTMLーAtrribute <img src="coding.jpg"width="100%">　＃"src"coding.jpg"と"width=100%"はHTMLの属性を示します。#<img src="イメージソースアドレス挿入する">
 属性tagはtag名だけで情報が不足した場合、属性を通じてより多くの意味を付与する。
-10/6 HTML
+10/7 HTML
 HTML学ぶこと
 <ul></ul>tagは順序を必要としないリスト（unordered list）を作成する際に使用。
 ＋<ul> tagは親のtagなので必ず子供tagを持っている。
