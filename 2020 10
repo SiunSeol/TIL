@@ -27,3 +27,11 @@ unsplashサイト：著作権なして使える写真サイト。
 src=source:ソースコード、width=幅
 HTMLーAtrribute <img src="coding.jpg"width="100%">　＃"src"coding.jpg"と"width=100%"はHTMLの属性を示します。#<img src="イメージソースアドレス挿入する">
 属性tagはtag名だけで情報が不足した場合、属性を通じてより多くの意味を付与する。
+10/6 HTML
+HTML学ぶこと
+<ul></ul>tagは順序を必要としないリスト（unordered list）を作成する際に使用。
+＋<ul> tagは親のtagなので必ず子供tagを持っている。
+<li></li>tagはリストを作成するtagです。単独ではなく、<ul></ul>或いは<ol></ol>tagの内部に入ります。
+＋子供tagとも呼ばれてメニューを作る時にも使用されるtagです。
+<ol></ol>tagは順序を必要とするリスト（ordered list）を作る際に使用。
+＋順序リストなので自動的に1,2などの数字がナンバリングされる。逆に<ul>tagは項目別の数字を直接書かなければならない。
