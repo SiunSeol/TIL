@@ -14,6 +14,10 @@ HTML TAG
   <li>＜ol＞＜/ol＞</li>
   <li>＜ul＞＜/ul＞</li>
   <li>＜li＞＜/li＞</li>
+  <li>＜html＞＜/html＞</li>
+  <li>＜head＞＜/head＞</li>
+  <li>＜title＞＜/title＞</li>
+  <li>＜body＞＜/body＞</li>
 </ol
 
 ---
