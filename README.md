@@ -18,6 +18,8 @@ HTML TAG
   <li>＜head＞＜/head＞</li>
   <li>＜title＞＜/title＞</li>
   <li>＜body＞＜/body＞</li>
+  <li>＜meta＞</li>
+  <li>＜a＞＜/a＞</li>
 </ol
 
 ---
