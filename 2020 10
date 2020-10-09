@@ -45,4 +45,12 @@ HTML学ぶこと
 <body></body>:本文を<body>というtagで留める約束（ブラウザに実際に表示される内容）
 <head></head>:本文つまり＜body＞というtagを説明するtagです。+<head>、<meta>などのtagが入ります。
 <html></html>：ウェブページの始まりと終わり
->><! doctype>は文書のタイプを指定すること
+>> <! doctype>は文書のタイプを指定すること
+10/9 HTML
+14/35単元まで聞きます。
+HTML学ぶこと
+<a></a>:リンクを張る役割　#ancharのaに由来するtagです。
+<a herf="リンクしたいアドレスを入れる">　#希望のアドレスにリンクされる。
+title"HTML5 specification" :tool tip(カーサを移動されると、パソコン画面にすぐに表示されるヘルプ)
+>>　この場合はtool tipにに表示されるのはHTML5specificationです。#specificationは説明書です。
+target="_blank" :新しいタブを表示させたいときにに使用。
