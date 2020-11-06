@@ -5,3 +5,26 @@ selctor a　{
               color:red; 
            }           
 #属性 COLOR：　宣言 DECLARATION,属性値red;         
+11/4
+paizaの問題一個を解けました。番号はD052です。
+それ以外もpaizaはないですが、
+1から5までのカードをそれぞれ一杯ずつ集めて間違えて同じ番号のカ-ドを
+ニ杯集めてしまいました。ニ杯集めてしまったカ-ドの番号を出力してください。という問題を解けました。
+(Python3で解けました。）
+num_list = list(map(int, input(). split()))
+cnt = num_list.count(1)
+if cnt >= 2:
+    print(1)
+cnt = num_list.count(2)
+if cnt >= 2:
+    print(2)
+cnt = num_list.count(3)
+if cnt >= 2:
+    print(3)
+cnt = num_list.count(4)
+if cnt >= 2:
+    print(4)
+cnt = num_list.count(5)
+if cnt >= 2:
+    print(5)
+
