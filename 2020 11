@@ -27,4 +27,6 @@ if cnt >= 2:
 cnt = num_list.count(5)
 if cnt >= 2:
     print(5)
-
+11/20
+Paizaで4つの問題を解けました。1個はC084の問題、
+3個はDの問題です。(D055、D107、D010です。)
